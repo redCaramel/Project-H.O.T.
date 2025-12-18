@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ModSelectScene.unity
+    guid: 34ba05afbd77a374c87451aad9b17dc0
+  - enabled: 1
+    path: Assets/Scenes/MissonSelectScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/SimulationScene.unity
+    guid: 1296323306281364b9935507eb579f15
+  - enabled: 1
+    path: Assets/Scenes/ResultSceneA.unity
+    guid: 56c64946dbea983478138fb3cae4cc19
+  - enabled: 1
+    path: Assets/Scenes/FreeFlightScene.unity
+    guid: 20fb9dc7eea8061419feba00c1b187e8
+  - enabled: 1
+    path: Assets/Scenes/MissonFlightAScene.unity
+    guid: 986c746dd16c49e4a902ca36ecce8596
+  - enabled: 1
+    path: Assets/Scenes/SpeedFlightScene.unity
+    guid: d684e8a7bb796064ab692170bf214bd7
+  - enabled: 1
+    path: Assets/Scenes/nameInputScene.unity
+    guid: 539472d62e8ce0e46b875ade86b355a4
+  - enabled: 1
+    path: Assets/Scenes/ResultSceneB.unity
+    guid: 2cf0a1e8e06714f4fbd96d632cf6e6d8
+  - enabled: 1
+    path: Assets/Scenes/ResultSceneC.unity
+    guid: 90db0de749bab7342a6b7d6b40dbfad8
+  - enabled: 1
+    path: Assets/Scenes/ResultSceneD.unity
+    guid: 7a0229562c2f6ff41900688171d21c54
+  - enabled: 1
+    path: Assets/Scenes/MissonFlightBScene.unity
+    guid: 4de22575886808a40987017601c8520f
+  - enabled: 1
+    path: Assets/Scenes/MissonFlightCScene.unity
+    guid: 4cd7718f9a326f54ea6a9d781822d2ab
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6978287063c55be48aa6bfd94aa78d04, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0d098a2c7e9c31446a4728cfbadaad6a, type: 2}
+  m_UseUCBPForAssetBundles: 0
