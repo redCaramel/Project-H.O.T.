@@ -1,7 +1,9 @@
 # Project H.O.T.
 <img width="806" height="447" alt="image" src="https://github.com/user-attachments/assets/4d5d8e42-1ddf-4e51-abd4-d485a84ba28b" />
 
-* 숭실대학교 컴퓨터학부 2025 컴퓨터시스템기초설계 프로젝트
+https://youtu.be/7-KoUKjgbRg
+
+숭실대학교 컴퓨터학부 2025 컴퓨터시스템기초설계 프로젝트
 
 VR 기반 헬기 조종 시뮬레이터
 
